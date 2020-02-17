@@ -2,7 +2,29 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/one_pubsub": [
+                "one_pubsub/one_pubsub.js"
+            ],
+            "c/handleEvent": [
+                "handleEvent/handleEvent.js"
+            ],
+            "c/registerEvent": [
+                "registerEvent/registerEvent.js"
+            ],
+            "c/iron_man": [
+                "iron_man/iron_man.js"
+            ],
+            "c/captain_america": [
+                "captain_america/captain_america.js"
+            ],
+            "c/star_lord": [
+                "star_lord/star_lord.js"
+            ],
+            "c/nick_fury": [
+                "nick_fury/nick_fury.js"
+            ]
+        }
     },
     "include": [
         "**/*",

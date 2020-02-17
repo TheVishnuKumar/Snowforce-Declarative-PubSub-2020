@@ -1,0 +1,45 @@
+<template>
+    <!-- PubSub Starts Here-->
+
+    <!-- Demo 1 - Iron Man <-> SuperMan -->
+    
+
+    <!-- Demo 2 - Iron Man <-> Captain America -->
+    
+
+    <!-- Demo 3 - Iron Man <- Nick Fury -->
+
+
+    <!-- Iron Man -> Star Lord -->
+
+    
+    <!-- PubSub Ends Here-->
+
+
+    <div style="background: white;padding: 10px;border-radius: 2px;">
+        <img style="height: 200px;"
+            src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dd3k8lr-acc1fdb8-bda1-49d3-b93e-a7c7744f3903.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGQzazhsci1hY2MxZmRiOC1iZGExLTQ5ZDMtYjkzZS1hN2M3NzQ0ZjM5MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xzoqAFlDFQ49XMqBxe4WogwBWzP7D9YWBdmQoqBLIIA" />
+
+        <div>Message from Superman: {messageFromSuperman}</div>
+        <div>Message from Captain America: {messageFromCaptainAmerica}</div>
+        <div>Message from Nick Fury: {messageFromNickFury}</div>
+
+        <div class="slds-form">
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-input type="text" label="Message" class="message"></lightning-input>
+            </div>
+
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-button label="Send Message to Superman" onclick={sendMessageToSuperman}></lightning-button>
+            </div>
+
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-button label="Send Message to Captain America" onclick={sendMessageToCaptainAmerica}></lightning-button>
+            </div>
+
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-button label="Send Wait Message to Star Lord" onclick={sendMessageToStarLord}></lightning-button>
+            </div>
+        </div>
+    </div>
+</template>
