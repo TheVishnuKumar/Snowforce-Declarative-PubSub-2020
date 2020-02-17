@@ -17,31 +17,29 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1581905716168,
-            "changeTime": 1581905747314,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 128,
+            "modifiedTime": 1581965622910,
+            "changeTime": 1581965622910,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default",
             "isDirectory": true,
-            "size": 512,
-            "modifiedTime": 1581952687205,
-            "changeTime": 1581952687205,
-            "contentHash": "4f7af740f83770e02d324a71d5ae0de735eafe98",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 544,
+            "modifiedTime": 1581965811307,
+            "changeTime": 1581965811307,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "b75ba0b8b63a6af6196495594aee9c1c65876493"
         }
     ],
     [
@@ -122,16 +120,15 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura/superman/superman.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura/superman/superman.cmp",
             "isDirectory": false,
-            "size": 1050,
-            "modifiedTime": 1581964461044,
-            "changeTime": 1581964461044,
-            "contentHash": "d506669ea42bd9b64ec8ced00d19b59c693feaeb",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1234,
+            "modifiedTime": 1581961602318,
+            "changeTime": 1581965811297,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "0eb44bf4bd177372c8b7c30ccb02c17df3d37251"
         }
     ],
     [
@@ -152,16 +149,15 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura/superman/supermanController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura/superman/supermanController.js",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1581964454693,
-            "changeTime": 1581964454693,
-            "contentHash": "bdc5bc3d7ba49d00ccbfa9e668255ae1efbcf410",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 328,
+            "modifiedTime": 1581961794329,
+            "changeTime": 1581965811290,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9f1b4fcb987fb54950910ce14f3a06ba6a220014"
         }
     ],
     [
@@ -270,31 +266,29 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/captain_america/captain_america.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/captain_america/captain_america.html",
             "isDirectory": false,
-            "size": 923,
-            "modifiedTime": 1581964472755,
-            "changeTime": 1581964472755,
-            "contentHash": "dd516da48de6480d0b38bec5f6c31971af08b917",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1242,
+            "modifiedTime": 1581962836668,
+            "changeTime": 1581965811380,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "76ea511b217d4cc21e85a8fc962ff82fb134d821"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/captain_america/captain_america.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/captain_america/captain_america.js",
             "isDirectory": false,
-            "size": 525,
-            "modifiedTime": 1581964501569,
-            "changeTime": 1581964501569,
-            "contentHash": "abee6419f9a8e3e84a898541e43f2d61ae4b2dac",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 646,
+            "modifiedTime": 1581961877505,
+            "changeTime": 1581965811378,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "cafbdc05e2b40b3f2faf8d3087cc1f2ea8c4c140"
         }
     ],
     [
@@ -375,31 +369,29 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/iron_man/iron_man.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/iron_man/iron_man.html",
             "isDirectory": false,
-            "size": 2066,
-            "modifiedTime": 1581964348426,
-            "changeTime": 1581964348426,
-            "contentHash": "ae331aa2da13d785666c381a88aa55a7243426d7",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 2675,
+            "modifiedTime": 1581962787576,
+            "changeTime": 1581965811344,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "075fd87ae60d23295f982de1859df22086eca7ef"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/iron_man/iron_man.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/iron_man/iron_man.js",
             "isDirectory": false,
-            "size": 953,
-            "modifiedTime": 1581964430012,
-            "changeTime": 1581964430012,
-            "contentHash": "726f81698d7d4ea5003d4ba0b1434dbc8b7b02a9",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1214,
+            "modifiedTime": 1581962049933,
+            "changeTime": 1581965811329,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "d068d9dd07eb2912087b55087318a0aa2c1ea3e5"
         }
     ],
     [
@@ -435,31 +427,29 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/nick_fury/nick_fury.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/nick_fury/nick_fury.html",
             "isDirectory": false,
-            "size": 718,
-            "modifiedTime": 1581964575196,
-            "changeTime": 1581964575196,
-            "contentHash": "d4a877bbb3c7a28673953632ff47ef1663b18e95",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 834,
+            "modifiedTime": 1581962895187,
+            "changeTime": 1581965811352,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "454a257ad7e72255e88acbce752a75f1078b27c3"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/nick_fury/nick_fury.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/nick_fury/nick_fury.js",
             "isDirectory": false,
-            "size": 276,
-            "modifiedTime": 1581964557603,
-            "changeTime": 1581964557603,
-            "contentHash": "44acc9e4a48ef2e4644d715c4e757dda865e4db4",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 280,
+            "modifiedTime": 1581963015254,
+            "changeTime": 1581965811358,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "c622ba686dc54c3de782c9164191a84924d7254c"
         }
     ],
     [
@@ -585,31 +575,29 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/star_lord/star_lord.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/star_lord/star_lord.html",
             "isDirectory": false,
-            "size": 410,
-            "modifiedTime": 1581964599547,
-            "changeTime": 1581964599547,
-            "contentHash": "0cd5440d65cf460231742a12e9f03b6361823e94",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 632,
+            "modifiedTime": 1581962805744,
+            "changeTime": 1581965811364,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "d393b71f9d5c3216b9a6e475b9cf12b0fea4d80c"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/star_lord/star_lord.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/lwc/star_lord/star_lord.js",
             "isDirectory": false,
-            "size": 323,
-            "modifiedTime": 1581964614852,
-            "changeTime": 1581964614852,
-            "contentHash": "c8f87fd5fb9d15df8094df30e421cb60c260a8be",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 382,
+            "modifiedTime": 1581962015341,
+            "changeTime": 1581965811370,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "e86cb51f0bb3b31c62b6cac8815270cc1dbfaab2"
         }
     ],
     [
@@ -645,14 +633,14 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1581965214911,
             "changeTime": 1581965214911,
-            "contentHash": "fe69d7147d40724945c04f785b154668ceab6c0c"
+            "contentHash": "fe69d7147d40724945c04f785b154668ceab6c0c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -718,15 +706,15 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020",
             "isDirectory": true,
-            "size": 416,
-            "modifiedTime": 1581964326284,
-            "changeTime": 1581964326284,
-            "contentHash": "a037edb24142bd5b7865d735e05de1298676f750",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 448,
+            "modifiedTime": 1581965226952,
+            "changeTime": 1581965226952,
+            "isWorkspace": true,
+            "contentHash": "01154064a04c83875886a241714c30d1228213e1"
         }
     ],
     [
@@ -902,14 +890,14 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/permissionsets/Superhero_App_Access.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/permissionsets/Superhero_App_Access.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 785,
             "modifiedTime": 1581965214911,
             "changeTime": 1581965214911,
-            "contentHash": "172c53699225e72d6a2898f03fdb9ab7f6f6e7d7"
+            "contentHash": "172c53699225e72d6a2898f03fdb9ab7f6f6e7d7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
