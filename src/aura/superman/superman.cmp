@@ -1,0 +1,23 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="message" type="String"/>
+
+    <!-- PubSub Starts Here-->
+    
+
+    <!-- PubSub Ends Here-->
+
+    <div style="background: white;padding: 10px;border-radius: 2px;">
+        <img style="height: 200px;"
+            src="https://purepng.com/public/uploads/medium/purepng.com-supermansupermanfictional-superherocomic-booksdc-comicscharacterjerry-siegelson-of-kryptonaction-comicsman-of-steel-17015286579044l67q.png" />
+
+        <div>Message from Iron Man: {!v.message}</div>
+        <div class="slds-form">
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning:input type="text" label="Message" aura:id="message"></lightning:input>
+            </div>
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning:button label="Send Message to Iron Man" onclick="{!c.sendMessageToIronMan}"></lightning:button>
+            </div>
+        </div>
+    </div>
+</aura:component>

@@ -1,0 +1,23 @@
+<template>
+    <!-- PubSub Starts Here-->
+    
+    
+    <!-- PubSub Ends Here-->
+
+    <div style="background: white;padding: 10px;border-radius: 2px;">
+        <img style="height: 200px;" src="https://pluspng.com/img-png/captain-america-png-download-captain-america-png-images-transparent-gallery-advertisement-1679.png"/>
+        
+        <div>Message from Iron Man: {messageFromIronMan}</div>
+        <div>Message from Nick Fury: {messageFromNickFury}</div>
+
+        <div class="slds-form">
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-input type="text" label="Message" class="message"></lightning-input>
+            </div>
+
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-button label="Send Message to Iron Man" onclick={sendMessageToIronMan}></lightning-button>
+            </div>
+        </div>
+    </div>
+</template>

@@ -1,0 +1,19 @@
+<template>
+    <!-- PubSub Starts Here-->
+
+    <!-- PubSub Ends Here-->
+
+    <div style="background: white;padding: 10px;border-radius: 2px;">
+        <img style="height: 200px;" src="https://www.pngarts.com/files/2/Nick-Fury-PNG-Download-Image.png"/>
+
+        <div class="slds-form">
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-input type="text" label="Messages" class="message"></lightning-input>
+            </div>
+
+            <div class="slds-form-element slds-form-element_stacked">
+                <lightning-button label="Send Messages to Avengers" onclick={sendMessageToAvengers}></lightning-button>
+            </div>
+        </div>
+    </div>
+</template>

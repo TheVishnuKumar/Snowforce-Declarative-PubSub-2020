@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Superheroes</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>superman</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Grouped_Events</members>
+    <members>LWC_Aura</members>
+    <members>LWC_LWC</members>
+    <members>Superheroes_PubSub_UtilityBar</members>
+    <members>Timeout</members>
+  </types>
+  <types>
+    <name>LightningComponentBundle</name>
+    <members>captain_america</members>
+    <members>handleEvent</members>
+    <members>iron_man</members>
+    <members>nick_fury</members>
+    <members>one_pubsub</members>
+    <members>registerEvent</members>
+    <members>star_lord</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Aura_LWC</members>
+    <members>Grouped_Events</members>
+    <members>LWC_LWC</members>
+    <members>Timeout</members>
+  </types>
+  <version>47.0</version>
+</Package>
