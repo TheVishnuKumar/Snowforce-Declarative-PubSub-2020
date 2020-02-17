@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { LightningElement,track } from 'lwc';
 
 export default class Captain_america extends LightningElement {
@@ -8,15 +7,15 @@ export default class Captain_america extends LightningElement {
     //Demo 2 - Captain America <-> Iron Man
     sendMessageToIronMan(){
         let msg = this.template.querySelector('.message').value;
-        //Fire Event
+        this.template.querySelector('.ironManEvent').publish(msg);
     }
 
     handleMessageFromIronMan(event){
-
+        this.messageFromIronMan = event.detail.payload;
     }
 
     //Demo 3 - Captain America <- Nick Fury
     handleMessageFromNickFury(event){
-
+        this.messageFromNickFury = event.detail.payload;
     }    
 }

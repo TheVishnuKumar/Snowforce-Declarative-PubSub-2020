@@ -1,7 +1,10 @@
 <template>
     <!-- PubSub Starts Here-->
-    
-    
+    <c-handle-event name="IronManToCaptainAmerica" onaction={handleMessageFromIronMan}></c-handle-event>
+
+    <c-handle-event name="NickFuryToCaptainAmerica" onaction={handleMessageFromNickFury} namespace="avengers"></c-handle-event>
+
+    <c-register-event name="CaptainAmericaToIronMan" class="ironManEvent"></c-register-event>
     <!-- PubSub Ends Here-->
 
     <div style="background: white;padding: 10px;border-radius: 2px;">

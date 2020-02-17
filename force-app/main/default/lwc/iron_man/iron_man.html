@@ -2,17 +2,19 @@
     <!-- PubSub Starts Here-->
 
     <!-- Demo 1 - Iron Man <-> SuperMan -->
-    
+    <c-register-event name="IronManToSuperman" class="supermanEvent"></c-register-event>
+    <c-handle-event name="SupermanToIronMan" onaction={handleMessageFromSuperman}></c-handle-event>
 
     <!-- Demo 2 - Iron Man <-> Captain America -->
-    
+    <c-register-event name="IronManToCaptainAmerica" class="captainAmericaEvent"></c-register-event>
+    <c-handle-event name="CaptainAmericaToIronMan" onaction={handleMessageFromCaptainAmerica}></c-handle-event>
 
     <!-- Demo 3 - Iron Man <- Nick Fury -->
-
+    <c-handle-event name="NickFuryToIronMan" onaction={handleMessageFromNickFury} namespace="avengers"></c-handle-event>
 
     <!-- Iron Man -> Star Lord -->
+    <c-register-event name="IronManToStarLord" class="starLordEvent" timeout=5000></c-register-event>
 
-    
     <!-- PubSub Ends Here-->
 
 
