@@ -36,8 +36,13 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 544,
+<<<<<<< Updated upstream
             "modifiedTime": 1581965811307,
             "changeTime": 1581965811307,
+=======
+            "modifiedTime": 1581966167056,
+            "changeTime": 1581966167056,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "b75ba0b8b63a6af6196495594aee9c1c65876493"
         }
@@ -90,16 +95,15 @@
     [
         "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/snowforce/Snowforce-Declarative-PubSub-2020/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1581952713092,
-            "changeTime": 1581952713092,
-            "contentHash": "18c28604dd31094a8d69dae60f1bcd347f1afc5a",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 128,
+            "modifiedTime": 1581966149634,
+            "changeTime": 1581966167046,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "f366c14741538ba3b4afe9a7fb833e1c03c7809b"
         }
     ],
     [
@@ -126,7 +130,11 @@
             "isMetadataFile": false,
             "size": 1234,
             "modifiedTime": 1581961602318,
+<<<<<<< Updated upstream
             "changeTime": 1581965811297,
+=======
+            "changeTime": 1581966167043,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "0eb44bf4bd177372c8b7c30ccb02c17df3d37251"
         }
@@ -155,7 +163,11 @@
             "isMetadataFile": false,
             "size": 328,
             "modifiedTime": 1581961794329,
+<<<<<<< Updated upstream
             "changeTime": 1581965811290,
+=======
+            "changeTime": 1581966167038,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "9f1b4fcb987fb54950910ce14f3a06ba6a220014"
         }
@@ -272,7 +284,11 @@
             "isMetadataFile": false,
             "size": 1242,
             "modifiedTime": 1581962836668,
+<<<<<<< Updated upstream
             "changeTime": 1581965811380,
+=======
+            "changeTime": 1581966167119,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "76ea511b217d4cc21e85a8fc962ff82fb134d821"
         }
@@ -286,7 +302,11 @@
             "isMetadataFile": false,
             "size": 646,
             "modifiedTime": 1581961877505,
+<<<<<<< Updated upstream
             "changeTime": 1581965811378,
+=======
+            "changeTime": 1581966167109,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "cafbdc05e2b40b3f2faf8d3087cc1f2ea8c4c140"
         }
@@ -375,7 +395,11 @@
             "isMetadataFile": false,
             "size": 2675,
             "modifiedTime": 1581962787576,
+<<<<<<< Updated upstream
             "changeTime": 1581965811344,
+=======
+            "changeTime": 1581966167081,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "075fd87ae60d23295f982de1859df22086eca7ef"
         }
@@ -389,7 +413,11 @@
             "isMetadataFile": false,
             "size": 1214,
             "modifiedTime": 1581962049933,
+<<<<<<< Updated upstream
             "changeTime": 1581965811329,
+=======
+            "changeTime": 1581966167077,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "d068d9dd07eb2912087b55087318a0aa2c1ea3e5"
         }
@@ -433,7 +461,11 @@
             "isMetadataFile": false,
             "size": 834,
             "modifiedTime": 1581962895187,
+<<<<<<< Updated upstream
             "changeTime": 1581965811352,
+=======
+            "changeTime": 1581966167085,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "454a257ad7e72255e88acbce752a75f1078b27c3"
         }
@@ -447,7 +479,11 @@
             "isMetadataFile": false,
             "size": 280,
             "modifiedTime": 1581963015254,
+<<<<<<< Updated upstream
             "changeTime": 1581965811358,
+=======
+            "changeTime": 1581966167088,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "c622ba686dc54c3de782c9164191a84924d7254c"
         }
@@ -581,7 +617,11 @@
             "isMetadataFile": false,
             "size": 632,
             "modifiedTime": 1581962805744,
+<<<<<<< Updated upstream
             "changeTime": 1581965811364,
+=======
+            "changeTime": 1581966167091,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "d393b71f9d5c3216b9a6e475b9cf12b0fea4d80c"
         }
@@ -595,7 +635,11 @@
             "isMetadataFile": false,
             "size": 382,
             "modifiedTime": 1581962015341,
+<<<<<<< Updated upstream
             "changeTime": 1581965811370,
+=======
+            "changeTime": 1581966167099,
+>>>>>>> Stashed changes
             "isWorkspace": false,
             "contentHash": "e86cb51f0bb3b31c62b6cac8815270cc1dbfaab2"
         }
