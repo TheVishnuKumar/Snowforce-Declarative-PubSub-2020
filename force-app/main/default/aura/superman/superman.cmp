@@ -2,7 +2,10 @@
     <aura:attribute name="message" type="String"/>
 
     <!-- PubSub Starts Here-->
-    
+    <c:handleEvent name="IronManToSuperman" onaction="{!c.handleEvent}"></c:handleEvent>
+
+    <c:registerEvent name="SupermanToIronMan" aura:id="superManToIronManEvent"></c:registerEvent>
+
 
     <!-- PubSub Ends Here-->
 
