@@ -7,15 +7,15 @@ export default class Captain_america extends LightningElement {
     //Demo 2 - Captain America <-> Iron Man
     sendMessageToIronMan(){
         let msg = this.template.querySelector('.message').value;
-        this.template.querySelector('.ironManEvent').publish(msg);
+        // this.template.querySelector('.ironManEvent').publish(msg);
     }
 
     handleMessageFromIronMan(event){
-        this.messageFromIronMan = event.detail.payload;
+        // this.messageFromIronMan = event.detail.payload;
     }
 
     //Demo 3 - Captain America <- Nick Fury
     handleMessageFromNickFury(event){
-        this.messageFromNickFury = event.detail.payload;
+        // this.messageFromNickFury = event.detail.payload;
     }    
 }
