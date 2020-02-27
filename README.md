@@ -4,4 +4,4 @@
 </a>
 
 # Prerequisite Step
-Coming soon...
+Click on the above button to deploy code in your Salesfore org then create project in VS code.
