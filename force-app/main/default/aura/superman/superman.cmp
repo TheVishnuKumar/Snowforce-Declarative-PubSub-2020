@@ -22,5 +22,7 @@
                 <lightning:button label="Send Message to Iron Man" onclick="{!c.sendMessageToIronMan}"></lightning:button>
             </div>
         </div>
+
+        <a href="http://shorturl.at/kmuwX">http://shorturl.at/kmuwX</a>
     </div>
 </aura:component>
